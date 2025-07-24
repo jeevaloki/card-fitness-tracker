@@ -1,1 +1,1 @@
-HERE TO VIEW THE OUTPUT https://jeevaloki.github.io/card-fitness-tracker/
+HERE TO VIEW THE OUTPUT https://github.com/jeevaloki/card-fitness-tracker.git
